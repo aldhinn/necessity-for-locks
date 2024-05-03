@@ -1,0 +1,14 @@
+# Ignore build directories.
+**out/
+**build/
+**bin/
+**dist/
+
+# Ignore visual studio files.
+**.vs/
+**CMakeSettings.json
+
+# Ignore visual studio code files.
+**.vscode/
+**.vscodium/
+**.vscode-oss/
